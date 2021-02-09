@@ -3,6 +3,12 @@
 
 A Flutter project based on The I Am Poor Challenge of [Flutter Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/), by [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/).
 
+<br/>
+<p align="center">
+  <img width="540" height="1110" src="./images/screenshots/Screenshot_1.png">
+</p>
+<br/>
+
 ## Getting Started
 
 A few resources to get you started in this project:
